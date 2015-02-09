@@ -1,0 +1,87 @@
+@media only screen and (max-device-width : 768px){
+	
+	#sign h2 small{
+		font-size: 0.3em;
+	}
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+	.container{
+		max-width: 100%;
+		margin-left: -0.10em;
+	}
+
+	#policeBox, .home article, header{
+		clear: both;
+		float: none;
+		margin: 0 auto;
+		width: 5em;
+	}
+
+	#policeBox{
+		margin-bottom: 0.5em;
+	}
+
+	header{
+		padding-top: 0.5em;
+	}
+
+	#social{
+		margin-bottom: 0.5em;
+		margin-left: 1.15em;
+	}
+
+	.home h1{
+		font-size: 1em;
+	}
+
+	.home article{
+		margin-bottom: 0.5em;
+	}
+
+	article{
+		float: none !important;
+		text-align: center;
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	table{
+		margin: 0 auto;
+	}
+
+	footer article, footer article p{
+		width: auto;
+		margin: 0 auto;
+		float: none;
+		text-align: center;
+	}
+
+	footer article p{
+		margin-bottom: 2em;
+	}
+
+	footer a{
+		float: none;
+		margin: 0 auto;
+	}
+
+	.how article{
+		width: 5em;
+		text-align: center;
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+	
+	.container{
+		max-width: 11em;
+	}
+}
