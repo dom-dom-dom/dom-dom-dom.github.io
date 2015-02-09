@@ -53,7 +53,11 @@ table {
 body{
 	background:black;
 	background: url(img/background.png) repeat 5% 5%;
-	padding:75px;
+	padding-left:75px;
+}
+
+a{
+	color:yellow;
 }
 
 /*#background {
@@ -553,31 +557,49 @@ span.by{
 /* Chrome, Safari, Opera */
 @-webkit-keyframes myfirst {
     0%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    10%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    20%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    30%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    40%  {background: white;box-shadow: 0 0 2em 0.5em white;}
-    50% {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    60%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    70%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    80%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    90%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    100%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    5%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    10%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    15%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    25%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    30%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    35%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    40% {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    45%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    50%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    55%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    60%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    65%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    70% {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    75%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    80%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    85%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    80%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+   	95%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+   	100%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
 }
 
 /* Standard syntax */
 @keyframes myfirst {
-   0%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    10%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    20%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    30%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    40%  {background: white;box-shadow: 0 0 2em 0.5em white;}
-    50% {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    60%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    70%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    80%   {background: white;box-shadow: 0 0 2em 0.5em white;}
-    90%  {background: yellow;box-shadow: 0 0 2em 0.5em yellow;}
-    100%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    0%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    5%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    10%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    15%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    25%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    30%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    35%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    40% {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    45%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    50%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    55%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    60%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    65%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+    70% {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    75%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    80%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+    85%   {background: white;box-shadow: 0 0 2em 0.5em white;}
+    80%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
+   	95%  {background: white;box-shadow: 0 0 2em 0.5em white;}
+   	100%  {background: #dadada;box-shadow: 0 0 2em 0.5em #dadada;}
 }
 
 
