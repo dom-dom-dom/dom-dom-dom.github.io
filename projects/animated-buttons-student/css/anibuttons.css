@@ -1,0 +1,22 @@
+body{
+	color: #333;
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 13px;
+	padding:64px;
+
+}
+hr{
+	margin:48px 0;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+h1{
+	text-align:center;
+}
+
+.clearfix{
+	clear:both;
+}
+
